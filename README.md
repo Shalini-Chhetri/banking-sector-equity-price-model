@@ -77,4 +77,4 @@ Please do not copy, reuse, or distribute any portion of this work without permis
 **Shalini Chhetri**  
 MS in Business Analytics  
 The Tobin College of Business,St John's University
-Queens, NY
+,Queens, NY
